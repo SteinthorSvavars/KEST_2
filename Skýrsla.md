@@ -12,3 +12,4 @@ Við byrjuðum á því að taka skrúfjárn og opnuðum tölvuna, Við aftengdu
 
 
 
+![alt text](https://github.com/SteinthorSvavars/KEST_2/blob/master/20200129_111707.jpg)
