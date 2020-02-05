@@ -3,6 +3,7 @@
 * Driver details, Update Driver, Roll Back Driver, Disable Device, Uninstall Device
 ##### After finalizing the Windows installation, what else can you do to improve your experience?
 *
+### 3.1.2.5
 ##### What key or combination of keys is used to run Setup on your computer?
 * Delete'
 ##### Who is the manufacturer of the BIOS?
