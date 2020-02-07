@@ -50,9 +50,41 @@
 * Quota 
 * Security
 ##### What are the tabs in the ITE Test Document Properties window?
-
+* General
+* Security
+* Details
+* Previous Version
+##### When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS?
+* Security
+##### Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+* Svo að þú getir breitt permissions á skjölum og möppum
 ### 11.1.2.10 
-
+##### List some of the icons that are on the Desktop.
+* Recycle Bin
+* Microsoft Edge
+##### What type of information is available on the Desktop and Taskbar?
+* Start 
+* Task View
+* File Explorer
+* Microsoft Store
+* Mail
+##### Name a few applications listed in the Start Menu.
+* Office
+* Microsoft Edge
+* Microsoft Store
+##### What are some of the available options?
+* Documents
+* Pictures
+* Settings
+* Power
+##### What are the available options in the Taskbar settings?
+* Lock the taskbar
+* Automatically Hide the taskbar in desktop mode
+* Automatically hide the taskbar in the tablet mode
+* Use small taskbar buttons
+* Use Peek to preview the desktop when you move your mouse to the Show desktop button at the end of the taskbar
+* Replace Command Promt with the Windows PowerShell in the menu when I right-click the start button or bress Windows key + X
+* Show badges on the taskbar buttons
 ### 11.1.3.4
 
 ### 11.1.4.11 
