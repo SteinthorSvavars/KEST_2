@@ -86,9 +86,19 @@
 * Replace Command Promt with the Windows PowerShell in the menu when I right-click the start button or bress Windows key + X
 * Show badges on the taskbar buttons
 ### 11.1.3.4
-
+##### What happened?
+* The web browser closed
+##### What options are available?
+* Expand, End Task, Provide feedback, Resource value, Search online.
+##### What statuses are listed?
+* Running & Stopped
+##### What are the available actions that can be taken?
+* Start, Stop, Restart, Open services, Search online, Go to details
 ### 11.1.4.11 
-
+##### What happened with Folder1 and Folder2 on the Desktop?
+* Folder1 and Folder2 appeared on the Desktop
+##### What is the file extension for the text document?
+* 
 ### 11.2.1.5
 
 ### 11.2.2.3
