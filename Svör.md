@@ -140,7 +140,11 @@
 ##### Which subcategory allows you to view the basic network information and set up connections?
 * Network and Sharing center > View network status and tasks
 ##### Which subcategory allows you to choose what happens when you insert a media or device?
-*       
+* Autoplay
+##### Which subcategory allows you to add a printer?
+* Devices and printers
+##### Which subcategory would you use to have a specific file type always open in a specified program?
+Default Programs > Associate a file type or protocol with a program
 ### 11.2.2.3
 
 ### 11.2.5.8
