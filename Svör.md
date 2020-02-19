@@ -133,6 +133,14 @@
 * Appearance and Perconaation
 * Clock and Region
 * Ease of Accses
+##### Which subcategory would help you troubleshoot common problems?
+* Securety and Maintenance > troubleshoot common computer problem
+##### Which subcategory allow a program through Windows Firewall?
+* Windows firewall > allow an app through windows firewall
+##### Which subcategory allows you to view the basic network information and set up connections?
+* Network and Sharing center > View network status and tasks
+##### Which subcategory allows you to choose what happens when you insert a media or device?
+*       
 ### 11.2.2.3
 
 ### 11.2.5.8
