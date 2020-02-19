@@ -83,24 +83,56 @@
 * Automatically hide the taskbar in the tablet mode
 * Use small taskbar buttons
 * Use Peek to preview the desktop when you move your mouse to the Show desktop button at the end of the taskbar
-* Replace Command Promt with the Windows PowerShell in the menu when I right-click the start button or bress Windows key + X
-* Show badges on the taskbar buttons
+* Replace Command Promt with the Windows PowerShell in the menu þegar ég right-clicka á start button eða ýti á Windows key + X
+* Show badges eða taskbar buttons
 ### 11.1.3.4
 ##### What happened?
-* The web browser closed
+* Chrome lokaðist
 ##### What options are available?
 * Expand, End Task, Provide feedback, Resource value, Search online.
 ##### What statuses are listed?
-* Running & Stopped
+* Running og Stopped
 ##### What are the available actions that can be taken?
 * Start, Stop, Restart, Open services, Search online, Go to details
 ### 11.1.4.11 
 ##### What happened with Folder1 and Folder2 on the Desktop?
-* Folder1 and Folder2 appeared on the Desktop
+* Folder1 and Folder2 byrtust á Desktop
 ##### What is the file extension for the text document?
-* 
+* .txt
+##### How would you do it?
+* Ýti á txt fileið, CTRL+C, fer inn í folder2 og CTRL+V
+##### What are the attributes associated with this file?
+* A
+##### What is the complete path to Folder3? 
+* C:\Users\Elias og Steinthor\Desktop\Folder2
+##### In Windows 8.x and 10, which directories are listed under Folders?
+* Folder 3, test.txt
+##### What happened? Why would you want to do this?
+* Mappan kemur á hliðina á File Explorer, þetta væri gott ef maður er að nota möppu eða forrit oft.
+##### What are folders listed in the Local Disk (C:)?
+* Intel, PerfLogs, Program Files, Program Files(x86), Users, Windows
+##### Open the Users folder. List all the folders in the directory
+* Elias og Steinthor, Public
+##### Were you able to open it? Explain.
+* Já?
+##### Open the Public folder. List all the folders in the directory.
+* Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos.
+##### Which folders or files listed under the Libraries heading?
+* Documents, Music, Pictures, Videos
+##### How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+* Ferð í Library Tools, velur Folder1 og ýtir á Remove
 ### 11.2.1.5
-
+##### What are the viewing options?
+* Large icon og small icon
+##### Name a few of the Control Panel categories.
+* System and securety
+* Network and Internet
+* Hardware and sound
+* Programs
+* User account
+* Appearance and Perconaation
+* Clock and Region
+* Ease of Accses
 ### 11.2.2.3
 
 ### 11.2.5.8
@@ -127,6 +159,3 @@
 ### 11.5.2.4
 
 ### 11.5.6.2
-
-
-
