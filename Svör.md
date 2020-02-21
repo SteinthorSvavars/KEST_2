@@ -167,7 +167,19 @@ Default Programs > Associate a file type or protocol with a program
 
 ### 11.4.5.3 
 
-
 ### 11.5.2.4
-
+##### Desktop name
+* DESKTOP-PMUD6PT
+* \\desktop\ShareES
+###### PARTNER NAME
+* DESKTOP-SVG7VQR
+* \\desktop\ShareKK
+##### Can you open the Brief file?
+* já
+##### Can you delete the Brief file? What happens?
+* Nei, file access denied
+##### What are the default permissions?
+* Read
+##### What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+* þú þarft að merkja vil allow í change
 ### 11.5.6.2
