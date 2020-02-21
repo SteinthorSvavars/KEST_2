@@ -183,3 +183,26 @@ Default Programs > Associate a file type or protocol with a program
 ##### What needs to be changed to allow any remote users to make changes in the ShareXX folder?
 * þú þarft að merkja vil allow í change
 ### 11.5.6.2
+##### Record the name of this computer.
+* DESKTOP-PMUD6PT
+##### What is the current Remote Desktop Port?
+* 3389
+##### What CLI command would you use to get the IP address?
+* Ip config
+##### Username
+* Gestur
+##### Password:
+* pass123
+##### What message is displayed on the remote computer and how much time is mentioned?
+
+##### What is the default amount of time remote assistance invitations remain open?
+
+##### What are the ways to send an invitation to a trusted person with Remote Assistance?
+
+##### 1. What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
+
+##### 2. How many simultaneous users can access a Windows computer at a single time?
+
+##### 3. What type of security components are implemented with Windows Remote Desktop?
+
+##### 4. How could remote desktop be used as a beneficial technology in the workplace?
