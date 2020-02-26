@@ -255,7 +255,13 @@ Default Programs > Associate a file type or protocol with a program
 ##### What single command would you use to delete all the files with doc2 in the filename?
 * del * doc2 * 
 ##### What command would you use to delete all the files in the directory?
-* 
+* del /S ITEfolder1
+##### What option allows you to copy all the files and directories, including the empty directories?
+* /E
+##### Were you able to delete the directory? Explain
+* Ég gat eytt möppunni
+##### What are the advantages of using CLI vs. GUI?
+* Það er hægt að geyra mikið meira mun aupveldara í CLI en það er mun auðveldara að skilja og sjá hvað er verið að gera með GUI
 
 ### 11.4.3.2 
 
