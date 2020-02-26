@@ -150,7 +150,20 @@ Default Programs > Associate a file type or protocol with a program
 * Með limited account þá getur þú gert allt sem þú þarft að gera í daglegu lífi 
 ##### What limitations does this type of an account have?
 * þú getur ekki búið til, eytt, skoðað eða breitt systemfiles
-
+##### What information is listed for the new account?
+*
+##### What is the advantage of having most users work within a Standard user account?
+* þá geta sem færstir búið til , eytt, skoðað og breitt systemfiles
+##### What are the other options?
+* keep files
+#####  When would you choose the other options?
+* Þegar þú vilt halda hvað userinn gerði en þarft að eyða usernum sjálfum
+##### Why is it important to protect all accounts with strong passwords?
+* svo að einginn komist inn á userinn sem á ekki að komast inn á hann
+##### Why would you create a user with Standard privileges?
+* Svo að hann geti ekki búið til , eytt, skoðað og breitt systemfiles
+##### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+* Svo hann geti geimt files sem userinn gerði en ekki userinn sjálfann
 ### 11.2.5.8
 
 ### 11.2.6.2 
