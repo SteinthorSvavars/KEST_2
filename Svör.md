@@ -193,7 +193,14 @@ Default Programs > Associate a file type or protocol with a program
 ### 11.2.5.8
 ##### What is the current size of the virtual memory (paging file)?
 * 1920MB
-
+##### What Drive [Volume Label] contains the paging file?
+* C:
+##### What is the recommended paging file size for all drives?
+* 1879MB
+##### What Drive [Volume Label] contains the paging file?
+* I:
+##### Why would you ever change the default virtual memory page file settings in Windows?
+* Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
 ### 11.2.6.2 
 
 ### 11.3.1.11
