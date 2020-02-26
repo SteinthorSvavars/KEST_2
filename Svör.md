@@ -165,6 +165,8 @@ Default Programs > Associate a file type or protocol with a program
 ##### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 * Svo hann geti geimt files sem userinn gerði en ekki userinn sjálfann
 ### 11.2.5.8
+##### What is the current size of the virtual memory (paging file)?
+* 1920MB
 
 ### 11.2.6.2 
 
