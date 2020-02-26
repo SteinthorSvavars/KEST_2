@@ -202,7 +202,22 @@ Default Programs > Associate a file type or protocol with a program
 ##### Why would you ever change the default virtual memory page file settings in Windows?
 * Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
 ### 11.2.6.2 
-
+##### What information is listed in the Device Manager window? Why would you use it?
+* Upplýsingar um hardware tölvunnar, til að komast auðveldar að ef eitthvað virkar ekki
+#####  Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+* Leita af því á netinu og sækja í það þar 
+##### What additional information does Driver Details provide?
+* Hvaða driver er fyrir monitorinn
+##### What two options do you have for updating the driver?
+* Search automaticllay for updated driver software
+* Browse my computer for driver sofware
+##### What does the Roll Back Driver button do? 
+* aftur kallar update
+##### The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+* Þá er driverinn í góðustandi
+##### What are the other available options?
+* Disable device
+* Unninstall device
 ### 11.3.1.11
 ##### What is the status of the service?
 * Running
