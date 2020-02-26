@@ -225,7 +225,8 @@ Default Programs > Associate a file type or protocol with a program
 * Stopped
 
 ### 11.3.2.7
-
+##### What was the path you use to navigate to the Event Viewer?
+* [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
 ### 11.3.2.8 
 
 ### 11.4.1.5
