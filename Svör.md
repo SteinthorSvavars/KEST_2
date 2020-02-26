@@ -146,6 +146,10 @@
 ##### Which subcategory would you use to have a specific file type always open in a specified program?
 Default Programs > Associate a file type or protocol with a program
 ### 11.2.2.3
+##### What can a user do with a limited account?
+* Með limited account þá getur þú gert allt sem þú þarft að gera í daglegu lífi 
+##### What limitations does this type of an account have?
+* þú getur ekki búið til, eytt, skoðað eða breitt systemfiles
 
 ### 11.2.5.8
 
