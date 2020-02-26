@@ -145,6 +145,31 @@
 * Devices and printers
 ##### Which subcategory would you use to have a specific file type always open in a specified program?
 Default Programs > Associate a file type or protocol with a program
+##### Which subcategory would you use to uninstall a program?
+* Uninstall a program
+##### Which subcategory would you use to install the Windows telnet client?
+* Turn Windows features on or off
+##### Which subcategory would you use change the account type from administrator to standard?
+* Change account type
+##### Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+* Credential manager
+##### Which subcategory would you use to customize the Taskbar?
+* Taskbar and navigation
+##### Which subcategory would you use to show hidden files and folders?
+* File explorer options
+##### Which subcategory would you use to show extensions for known file types?
+* File explorer options
+##### Which subcategory would you use to change the time zone?
+* Date and Time
+##### Which subcategory would you use to change date format?
+* Region
+##### Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+* Date and Time > Internet Time
+##### Which subcategory would you use to configure the computer to read aloud any text on the screen?
+* Ease of Access Centre > Turn on Narrator
+##### Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+* Speech Recognition 
+
 ### 11.2.2.3
 ##### What can a user do with a limited account?
 * Með limited account þá getur þú gert allt sem þú þarft að gera í daglegu lífi 
@@ -164,6 +189,7 @@ Default Programs > Associate a file type or protocol with a program
 * Svo að hann geti ekki búið til , eytt, skoðað og breitt systemfiles
 ##### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 * Svo hann geti geimt files sem userinn gerði en ekki userinn sjálfann
+
 ### 11.2.5.8
 ##### What is the current size of the virtual memory (paging file)?
 * 1920MB
