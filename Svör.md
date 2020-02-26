@@ -197,6 +197,10 @@ Default Programs > Associate a file type or protocol with a program
 ### 11.2.6.2 
 
 ### 11.3.1.11
+##### What is the status of the service?
+* Running
+##### Record the Windows Defender status
+* Stopped
 
 ### 11.3.2.7
 
