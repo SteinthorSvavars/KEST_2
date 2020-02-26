@@ -229,8 +229,32 @@ Default Programs > Associate a file type or protocol with a program
 ### 11.3.2.8 
 
 ### 11.4.1.5
+##### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
+* md a\b\c
+##### What command would you use to verify the creation of the nested directories?
+* Keyrir md a\b\c aftur og það lætur þig vita ef allt er til
+##### What command did you use?
+* cls
+##### What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+* cls
+##### What is the last command?
+* cls
 
 ### 11.4.2.7
+##### What is the current directory?
+* C:\Users\Elias og Steinthor
+##### Which folder are you in now?
+* ITEfolder3
+##### What command or commands did you use to create the nested folders?
+* md ITEfolder4\ITEfolder5
+##### After issuing the cd .. command, what is your directory now?
+* C:\Users\elias\ITEfolder3\ITEfolder4
+##### What would be the current directory if you issue this command at C:\Users\ITEfolder4?
+* C:\Users\elias\ITEfolder3
+##### What single command would you use to delete all the files with doc2 in the filename?
+* del * doc2 * 
+##### What command would you use to delete all the files in the directory?
+* 
 
 ### 11.4.3.2 
 
